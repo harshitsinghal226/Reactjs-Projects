@@ -39,7 +39,7 @@ This repo contains a collection of small projects I built while learning and pra
 ## 🚀 How to Run Any Project  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/harshitsinghal226/reactjs-projects.git
+   git clone https://github.com/your-username/reactjs-projects.git
    cd reactjs-projects
 2. Navigate to the project folder (example: 1-todo-app-version-one):
    ```bash
