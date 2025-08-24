@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800&display=swap");
+
+/* base styles */
+body {
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin: 0;
+  font-size: 1.6rem;
+  text-align: center;
+  background: rgb(63, 6, 194);
+  background: linear-gradient(
+    90deg,
+    rgba(63, 6, 194, 1) 0%,
+    rgba(245, 22, 22, 1) 50%,
+    rgba(252, 150, 69, 1) 100%
+  );
+  color: black;
+}
